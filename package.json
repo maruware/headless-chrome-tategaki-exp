@@ -1,0 +1,24 @@
+{
+  "name": "headless-chrome-tategaki-exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maruware/headless-chrome-tategaki-exp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maruware/headless-chrome-tategaki-exp/issues"
+  },
+  "homepage": "https://github.com/maruware/headless-chrome-tategaki-exp#readme",
+  "dependencies": {
+    "file-url": "^2.0.2",
+    "puppeteer": "^0.11.0"
+  }
+}
